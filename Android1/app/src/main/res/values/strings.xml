@@ -2,4 +2,7 @@
     <string name="app_name">HelloWorldApp</string>
     <string name="edit_text_hint">Enter Message Here...</string>
     <string name="button_text">Send Message</string>
+    <string name="message">Welcome to Message Activity</string>
+    <string name="final_activity_button">Open Final Activity</string>
+    <string name="final_activity_message">Welcome to Final Activity</string>
 </resources>
